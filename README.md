@@ -1,1 +1,1 @@
-Exploring  data related to bikeshare system in three cities, Chicago, New York City and Washington—to answer questions about the data through descriptive statistics with an interactive experience in the terminal to present these statistics.
+Exploring  data related to bikeshare system in three cities, Chicago, New York City and Washington to answer questions about the data through descriptive statistics with an interactive experience in the terminal to present these statistics.
